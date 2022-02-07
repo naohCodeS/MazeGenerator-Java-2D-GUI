@@ -2,7 +2,7 @@ package mazeGenerator.maze;
 
 /**
  * 座標情報を持つクラスです
- * @author BP20083 鈴木直人
+ * @author naohS
  *
  */
 public class Coodinate {

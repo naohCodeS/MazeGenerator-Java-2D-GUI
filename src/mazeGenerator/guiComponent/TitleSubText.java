@@ -6,7 +6,7 @@ import javafx.scene.text.Text;
 /**
  * タイトル画面にタイトルではない文字として表示される時にインスタンス化するクラスです<br>
  * Textクラスを継承し、あらかじめフォントサイズを決定してあります。
- * @author BP20083 鈴木直人
+ * @author naohS
  *
  */
 public class TitleSubText extends Text{

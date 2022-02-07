@@ -9,7 +9,7 @@ import java.util.Stack;
 /**
  * 迷路を実装するクラスです<br>
  * 迷路はBlockクラスの二次元配列であらわされます
- * @author BP20083 鈴木直人
+ * @author naohS
  *
  */
 public class Maze {

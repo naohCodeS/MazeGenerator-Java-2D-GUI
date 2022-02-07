@@ -18,7 +18,7 @@ import mazeGenerator.guiComponent.TitleTextField;
 /**
  * タイトル画面のクラスです<br>
  * VireFrameを継承します
- * @author BP20083 鈴木直人
+ * @author naohS
  */
 public class TitleView extends ViewFrame{
 	

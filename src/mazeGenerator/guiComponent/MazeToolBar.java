@@ -6,7 +6,7 @@ import javafx.scene.control.ToolBar;
 
 /**
  * 迷路画面に表示するツールバーを設定するクラスです<br>
- * @author BP20083 鈴木直人
+ * @author naohS
  */
 public class MazeToolBar extends ToolBar{
 	

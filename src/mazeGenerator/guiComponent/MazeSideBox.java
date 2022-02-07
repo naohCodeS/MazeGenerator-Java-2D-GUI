@@ -4,7 +4,7 @@ import javafx.scene.layout.VBox;
 
 /**
  * 迷路画面の左右に生成するクラスです
- * @author BP20083 鈴木直人
+ * @author naohS
  *
  */
 public class MazeSideBox extends VBox{

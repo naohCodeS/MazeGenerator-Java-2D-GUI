@@ -3,7 +3,7 @@ package mazeGenerator.maze;
 /**
  * 迷路画面で使うブロックのコンポーネントの基本的な形を決めるクラスです<br>
  * 壁、通路、スタートなどはこのクラスを継承したクラスのインスタンスです
- * @author BP20083 鈴木直人
+ * @author naohS
  *
  */
 public class Block {

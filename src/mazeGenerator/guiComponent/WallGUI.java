@@ -3,7 +3,7 @@ package mazeGenerator.guiComponent;
 /**
  * •Ç‚ÌGUI‚ÌƒNƒ‰ƒX‚Å‚·<br>
  * BlockGUI‚ğŒp³‚µ‚Ü‚·
- * @author BP20083 —é–Ø’¼l
+ * @author naohS
  *
  */
 public class WallGUI extends BlockGUI{

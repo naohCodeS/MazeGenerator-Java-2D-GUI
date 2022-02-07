@@ -7,7 +7,7 @@ import javafx.scene.text.TextAlignment;
 /**
  * タイトルテキストのクラスです<br>
  * Textクラスを継承しフォントサイズやラッピング幅はあらかじめ決定されています
- * @author BP20083 鈴木直人
+ * @author naohS
  *
  */
 public class TitleText extends Text {

@@ -5,7 +5,7 @@ import javafx.scene.paint.Color;
 /**
  * 最短経路のGUIを実装するクラスです<br>
  * BlockGUIを継承します
- * @author BP20083 鈴木直人
+ * @author naohS
  */
 public class ShortestPathGUI extends BlockGUI{
 	

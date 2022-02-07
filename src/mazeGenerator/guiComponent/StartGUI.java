@@ -5,7 +5,7 @@ import javafx.scene.paint.Color;
 /**
  * 迷路内のスタートのGUIです<br>
  * BlockGUIを継承します
- * @author BP20083 鈴木直人
+ * @author naohS
  *
  */
 public class StartGUI extends BlockGUI{

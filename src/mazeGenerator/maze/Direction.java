@@ -2,7 +2,7 @@ package mazeGenerator.maze;
 
 /**
  * •ûŒü‚ğ‹æ•Ê‚·‚é‚½‚ß‚Ì—ñ‹“Œ^ƒNƒ‰ƒX‚Å‚·
- * @author BP20083 —é–Ø’¼l
+ * @author naohS
  *
  */
 public enum Direction {

@@ -7,7 +7,7 @@ import mazeGenerator.view.TitleView;
 /**
  * MazeGenerator を起動するクラスです<br>
  * Windowを起動、show()メソッドを実行しアプリを開始します
- * @author BP20083 鈴木直人
+ * @author naohS
  * @see Window
  */
 public class MazeGenerator extends Application {

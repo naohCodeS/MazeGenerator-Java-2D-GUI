@@ -7,7 +7,7 @@ import mazeGenerator.view.ViewFrame;
 /**
  * ウィンドウの制御を行うクラスです<br>
  * 初期化、画面の遷移を実装します
- * @author BP20083 鈴木直人
+ * @author naohS
  */
 public class Window {
 

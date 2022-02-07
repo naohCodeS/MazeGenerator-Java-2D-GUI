@@ -23,7 +23,7 @@ import mazeGenerator.maze.Maze;
 /**
  * 迷路表示画面のクラスです<br>
  * VierFrameクラスを継承します
- * @author BP20083 鈴木直人
+ * @author naohS
  */
 public class MazeView extends ViewFrame{
 	

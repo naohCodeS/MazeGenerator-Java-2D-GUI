@@ -2,7 +2,7 @@ package mazeGenerator.maze;
 
 /**
  * 迷路で使用されるブロックのタイプを区別するための列挙型クラスです
- * @author BP20083 鈴木直人
+ * @author naohS
  *
  */
 public enum BlockType {

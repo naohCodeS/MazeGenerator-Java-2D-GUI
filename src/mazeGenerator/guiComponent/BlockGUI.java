@@ -5,7 +5,7 @@ import javafx.scene.shape.Rectangle;
 /**
  * 迷路を形成するコンポーネント（壁、スタート、ゴールなど）の基本的な形を定義するクラスです<br>
  * コンポーネントはこのクラスを継承しインスタンス化されます
- * @author BP20083 鈴木直人
+ * @author naohS
  */
 public class BlockGUI extends Rectangle{
 	private double width;

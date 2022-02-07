@@ -4,7 +4,7 @@ import javafx.scene.paint.Color;
 
 /**
  * ゴールのGUIを実装するクラスで、BlockGUIを継承します
- * @author BP20083 鈴木直人
+ * @author naohS
  */
 public class GoalGUI extends BlockGUI{
 	

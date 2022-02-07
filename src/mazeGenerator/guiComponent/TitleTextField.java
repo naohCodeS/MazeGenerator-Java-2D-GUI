@@ -4,7 +4,7 @@ import javafx.scene.control.TextField;
 
 /**
  * タイトルに表示するテキストフィールドのクラスです
- * @author BP20083 鈴木直人
+ * @author naohS
  *
  */
 public class TitleTextField extends TextField{
