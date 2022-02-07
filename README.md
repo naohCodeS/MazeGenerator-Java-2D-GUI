@@ -70,5 +70,5 @@ SceneBuilder（FXML）の利用でリッチなGUIを手軽に作成できます�
 
 ## 参考資料
 
-迷路生成アルゴリズム（壁伸ばし法）： Algoful 様（<https://algoful.com/Archive/Algorithm/MazeExtend>）
+迷路生成アルゴリズム（壁伸ばし法）： Algoful 様（<https://algoful.com/Archive/Algorithm/MazeExtend>）  
 画面遷移　：　のんぽぐ 様（<https://nompor.com/2018/01/16/post-2683/>）
