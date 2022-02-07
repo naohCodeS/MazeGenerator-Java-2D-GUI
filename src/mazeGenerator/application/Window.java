@@ -14,8 +14,6 @@ public class Window {
 	private static final Window window = new Window();
 	private Stage wnd;
 	private Scene scene;
-//	private ViewFrame current;
-//	private boolean isChangeAnimation;
 	private boolean isInit;
 
 	//外部からのアクセスは必要ない
@@ -34,7 +32,6 @@ public class Window {
 		stage.setResizable(false);
 		stage.setScene(window.scene);
 		window.wnd = stage;
-//		window.current = initView;
 		window.isInit = true;
 	}
 	
@@ -45,17 +42,11 @@ public class Window {
 		if(!window.wnd.isShowing()) window.wnd.show();
 	}
 	
-//	public static synchronized void close() {
-//		if(window.wnd.isShowing()) window.wnd.close();
-//	}
-	
-	
 	/**
 	 * 画面の遷移を行います
 	 * @param view 遷移先のSceneクラスインスタンス
 	 */
 	public static void change(ViewFrame view) {
 		window.scene.setRoot(view);
-//		window.current = view;
 	}
 }

@@ -24,7 +24,7 @@ public class MazeGenerator extends Application {
 	}
 	
 	/**
-	 * Applocationクラスの抽象メソッドを実装します//
+	 * Applicationクラスの抽象メソッドを実装します//
 	 */
 	@Override
 	public void start(Stage stage) {

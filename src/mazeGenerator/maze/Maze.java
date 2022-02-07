@@ -139,19 +139,19 @@ public class Maze {
 		}
 	}
 	
-	private void debugMazeShow() {
-		for(int i=0; i<this.height; i++) {
-			for(int j=0; j<this.width; j++) {
-				if(maze[i][j].getBlockType()==BlockType.START) System.out.print("S ");
-				if(maze[i][j].getBlockType()==BlockType.GOAL) System.out.print("G ");
-				if(maze[i][j].getBlockType()==BlockType.WALL) System.out.print("Q ");
-				if(maze[i][j].getBlockType()==BlockType.PATH) System.out.print("  ");
-				if(maze[i][j].getBlockType()==BlockType.SHORTEST_PATH) System.out.print("C ");
-			}
-			System.out.println();
-		}
-		System.out.println();
-	}
+//	private void debugMazeShow() {
+//		for(int i=0; i<this.height; i++) {
+//			for(int j=0; j<this.width; j++) {
+//				if(maze[i][j].getBlockType()==BlockType.START) System.out.print("S ");
+//				if(maze[i][j].getBlockType()==BlockType.GOAL) System.out.print("G ");
+//				if(maze[i][j].getBlockType()==BlockType.WALL) System.out.print("Q ");
+//				if(maze[i][j].getBlockType()==BlockType.PATH) System.out.print("  ");
+//				if(maze[i][j].getBlockType()==BlockType.SHORTEST_PATH) System.out.print("C ");
+//			}
+//			System.out.println();
+//		}
+//		System.out.println();
+//	}
 	
 	private void strechWall(Coodinate coodinate) {
 		

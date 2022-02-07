@@ -110,7 +110,7 @@ public class MazeView extends ViewFrame{
 
 		leftBoxComp.getChildren().addAll(wallInfo, startInfo, goalInfo, shortestPathInfo);
 		leftBox.getChildren().add(leftBoxComp);
-		leftBox.setMargin(leftBoxComp, new Insets(0, 0, 0, 20));
+		VBox.setMargin(leftBoxComp, new Insets(0, 0, 0, 20));
 		
 		return leftBox;
 	}
